@@ -1,4 +1,4 @@
-package com.demo.project.dto;
+package com.demo.project.entity;
 
 import java.io.Serializable;
 

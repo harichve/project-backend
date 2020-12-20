@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.demo.project.dto.GridDetail;
-import com.demo.project.dto.InsertData;
+import com.demo.project.entity.GridDetail;
+import com.demo.project.entity.InsertData;
 import com.demo.project.service.ProjectService;
 
 @CrossOrigin(origins ="*")

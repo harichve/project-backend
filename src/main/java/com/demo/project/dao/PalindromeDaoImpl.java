@@ -11,7 +11,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Repository;
 
-import com.demo.project.dto.GridDetail;
+import com.demo.project.entity.GridDetail;
 
 @Repository
 public class PalindromeDaoImpl implements PalindromeDao {

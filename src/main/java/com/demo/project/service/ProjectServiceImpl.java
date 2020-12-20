@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.demo.project.dao.PalindromeDao;
-import com.demo.project.dto.GridDetail;
+import com.demo.project.entity.GridDetail;
 
 @Service
 public class ProjectServiceImpl implements ProjectService {

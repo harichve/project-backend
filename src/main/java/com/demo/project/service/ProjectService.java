@@ -3,7 +3,7 @@ package com.demo.project.service;
 import java.util.List;
 import java.util.Map;
 
-import com.demo.project.dto.GridDetail;
+import com.demo.project.entity.GridDetail;
 
 public interface ProjectService {
 	
